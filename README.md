@@ -7,6 +7,14 @@ Day 2 ✅ — K-Maps, Minimization, MUX/DEMUX/Decoder
 Day 3 ✅ — Combinational Circuits, Adders, First Verilog Code
 Day 4 ✅ — Flip Flops, Registers, Shift Register Simulation
 Day 5 ✅ — Counters, Synchronous Design, Up-Down Counter
+Day 6 ✅ — Finite State Machines, Moore vs Mealy, Sequence Detector (1011) simulated correctly
+
+## Projects Built
+- Half Adder + Full Adder
+- 8-bit Shift Register  
+- 4-bit Up-Down Counter
+- Mod-10 Counter
+- FSM Sequence Detector (1011)
 
 ## Projects Built
 - Half Adder + Full Adder (Verilog + Testbench)
