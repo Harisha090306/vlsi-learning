@@ -8,6 +8,8 @@ Day 3 ✅ — Combinational Circuits, Adders, First Verilog Code
 Day 4 ✅ — Flip Flops, Registers, Shift Register Simulation
 Day 5 ✅ — Counters, Synchronous Design, Up-Down Counter
 Day 6 ✅ — Finite State Machines, Moore vs Mealy, Sequence Detector (1011) simulated correctly
+Day 7 ✅ — PLDs, FPGAs, Memory Types, Logic Families
+Day 8 ✅ — MOSFET, CMOS Gates, Transistor Sizing, Power Analysis
 
 ## Projects Built
 - Half Adder + Full Adder
@@ -15,12 +17,6 @@ Day 6 ✅ — Finite State Machines, Moore vs Mealy, Sequence Detector (1011) si
 - 4-bit Up-Down Counter
 - Mod-10 Counter
 - FSM Sequence Detector (1011)
-
-## Projects Built
-- Half Adder + Full Adder (Verilog + Testbench)
-- 8-bit Shift Register (pattern verified in simulation)
-- 4-bit Synchronous Up-Down Counter
-- Mod-10 Counter
 
 ## Tools Used
 - EDA Playground (Icarus Verilog)
